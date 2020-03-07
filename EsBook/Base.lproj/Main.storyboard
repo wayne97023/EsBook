@@ -7855,8 +7855,8 @@ Cookie
         <image name="5cfb7b6a9b0fc" width="1920" height="1080"/>
         <image name="5d085d948bd04" width="2880" height="1620"/>
         <image name="bg" width="3000" height="4500"/>
-        <image name="book" width="512" height="512"/>
         <image name="book" catalog="system" width="64" height="50"/>
+        <image name="book" width="512" height="512"/>
         <image name="book1" width="348" height="348"/>
         <image name="book2" width="348" height="348"/>
         <image name="book3" width="348" height="348"/>
